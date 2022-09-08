@@ -1,0 +1,51 @@
+body{
+	background: black url(images/creonte.png);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:right;
+	
+}
+
+
+
+
+
+h1 {
+	color:white;
+	font-size:2em;
+	padding-top:30px;
+	padding-left:18px;
+}
+
+footer h3 {
+	display:inline;
+	margin: 1em;
+	}
+h3{
+	
+}
+a {
+	color:rgb(51,204,255);
+	text-decoration: none;
+	
+}
+
+h4 {
+	color:white;
+	margin-left:50px;
+	padding-right:30%;
+	
+}
+h4 span {
+	background-color:black;
+}
+
+a:hover {
+	text-decoration: underline;
+	color:rgb(0,0,153);
+}
+
+
+h5 {
+	margin-left:17px;
+}
